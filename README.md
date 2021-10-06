@@ -1,5 +1,5 @@
 # Online Quiz
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Palak,Paryank and Zainab-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Palak,%20Paryank%20and%20Zainab-red)
 ---
 
 ---
