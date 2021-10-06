@@ -65,5 +65,5 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on LinkedIn](https://www.linkedin.com/in/palakgupta54821b189/)
+- [Contact me on LinkedIn](https://www.linkedin.com/in/palakgupta54821b189/)
 
